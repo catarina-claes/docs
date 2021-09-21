@@ -1,0 +1,58 @@
+.kix-wordhtmlgenerator-word-node {
+    color: rgb(224, 206, 242) !important;
+}
+body {
+    background-image: url("https://media.discordapp.net/attachments/845657733742723112/852870004520910919/90068828_p0.png?width=840&height=473");
+    background-size: cover;
+}
+.docs-gm #docs-editor, .docs-gm #docs-editor-container {
+    background: rgba(86, 6, 105, .15);
+}
+.kix-page {
+    background: rgba(36, 0, 40, .92)!important;
+}
+.companion-guest-app-switcher {
+    background: rgba(61, 1, 75, 0);
+}
+.companion-app-switcher-container {
+    background: rgb(13, 0, 43)!important;
+    border-color: rgba(38, 0, 47, .15);
+}
+.docs-material #docs-header .docs-titlebar-buttons {
+    background: rgba(18, 0, 58, .9)!important;
+    border-color: rgba(38, 0, 47, .15);
+}
+#docs-chrome {
+    background: rgba(18, 0, 58, .9)!important;
+}
+.kix-appview-editor {
+    background-color: rgba(19, 0, 60, .08) !important;
+}
+.docs-gm .docs-menubar .goog-control {
+    color: rgb(249, 242, 255) !important;
+}
+.docs-gm .docs-menubar .goog-control-hover {
+    color : rgba(18, 0, 58, .9)!important;
+    background-color : rgb(249, 242, 255) !important;
+}
+.docs-title-save-label {
+    color: rgba(249, 242, 255, .44) !important;
+}
+.docs-material #docs-toolbar-wrapper, .docs-material #docs-equationtoolbar, .docs-material .docs-printpreview-toolbar, .docs-material #docs-header.docs-hub-appbar #docs-titlebar-container {
+    background: rgba(18, 0, 58, .9)!important;
+    padding: 0 21px 0 22px;
+    border-color: rgba(18, 0, 58, .9)!important;
+}
+.docs-gm .goog-toolbar-button, .docs-gm .goog-toolbar-menu-button, .docs-gm .goog-toolbar-combo-button, .docs-gm #docs-equationtoolbar .goog-toolbar-button, .docs-gm #docs-equationtoolbar .goog-toolbar-menu-button, .docs-gm .trix-palette .goog-palette-cell {
+    background: #c2bef4;
+}
+.docs-material.docs-companion-app-switcher-container {
+    top: 63px !important;
+}
+.docs-title-input-label {
+    background: #c2bef4;
+    border-color: #c2bef4;
+}
+.docs-title-input-label-inner {
+    color: rgb(18, 0, 58)!important;
+}
